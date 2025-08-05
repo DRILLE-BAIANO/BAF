@@ -1,0 +1,6 @@
+git config --global user.name DRILLE-BAIANO
+git config --global user.email duduzimhard@gmail.com
+
+Criando um projeto Web API com .net 9
+dotnet new webapi -o BAF.API --use-controllers
+

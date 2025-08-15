@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace BAF.API.Controllers;
+namespace GAF.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]

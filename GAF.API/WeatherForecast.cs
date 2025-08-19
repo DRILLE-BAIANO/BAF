@@ -1,4 +1,4 @@
-namespace BAF.API;
+namespace GAF.API;
 
 public class WeatherForecast
 {

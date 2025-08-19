@@ -23,7 +23,7 @@ namespace GAF.API.Models;
     public decimal TotalExpenses { get; set; }    
     [Required]
     [Column(TypeName = "decimal(18,2)")]
-    public decimal Balnace => TotalIncome - TotalExpenses
+    public decimal Balnace => TotalIncome - TotalExpenses;
 
     [Required]
     public string UserId { get; set; }

@@ -1,5 +1,6 @@
 using GAF.API.Models;
-using Microsoft.AspNetCore.Identity.IdentityDbContext;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace GAF.API.Data;
 
